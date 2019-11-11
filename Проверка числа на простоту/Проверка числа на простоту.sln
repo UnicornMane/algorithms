@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Проверка числа на простоту", "Проверка числа на простоту\Проверка числа на простоту.pyproj", "{91ED97C4-7E87-4C96-908D-A3D560A66AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91ED97C4-7E87-4C96-908D-A3D560A66AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91ED97C4-7E87-4C96-908D-A3D560A66AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF776ECE-D5AD-4A56-8888-5DD2EA6607D2}
+	EndGlobalSection
+EndGlobal
